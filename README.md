@@ -3,7 +3,7 @@
 ##
 
 - 🎮 Atualmente estou desenvolvendo jogos 2D Pixelado.
-- 👨🏾‍💻 Estou a procura de me desenvolver na área de games, para assim evoluir e fazer jogos cada vezes melhores e refinados abrangendo cada vez mais topicos.
+- 👨🏾‍💻 Estou em busca de me desenvolver na área de games, para assim evoluir e fazer jogos cada vezes melhores e refinados, abrangendo cada vez mais topicos.
 
 - Minhas Skills
 
