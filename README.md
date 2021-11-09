@@ -2,7 +2,7 @@
 
 ##
 
-- 🎮 Atualmente estou desenvolvendo jogos 2D Pixelado.
+- 🎮 Atualmente estou desenvolvendo jogos 2D Pixelado, e estudando programação com a linguagem C#.
 - 👨🏾‍💻 Estou em busca de me desenvolver na área de games, para assim evoluir e fazer jogos cada vezes melhores e refinados, abrangendo cada vez mais topicos.
 
 - Minhas Skills
