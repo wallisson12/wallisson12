@@ -9,4 +9,3 @@
 
   <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/128/unity_icon_136074.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
