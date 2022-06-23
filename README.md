@@ -9,3 +9,4 @@
 
   <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/128/unity_icon_136074.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Studio_icon-icons.com_56597.png">
