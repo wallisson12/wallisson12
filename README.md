@@ -1,4 +1,4 @@
-#### 👾 Olá, Eu sou Wallisson de jesus e desenvolvo jogos utilizando a linguagem C# com o motor gráfico a Unity.
+#### 👾 Olá, sou Wallisson, um desenvolvedor de jogos apaixonado por criar jogos desde a sua prototipagem até o seu lançamento. Utlizando para isso a linguagem C# e a engine de desenvolvimento de jogos Unity.
 
 ##
 
