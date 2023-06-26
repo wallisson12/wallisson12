@@ -2,6 +2,7 @@
 
 ##
 - 🎮 Atualmente estou estudando e desenvolvendo jogos 2D e 3D, como também venho me aprofundando sobre game design.
+- 💻 Portifolio: https://www.behance.net/wallissondejesus 
   
 
 <div align="center">  
