@@ -1,4 +1,4 @@
-#### 👾 Olá, sou Wallisson, um desenvolvedor de jogos apaixonado por criar jogos desde a sua prototipagem até o seu lançamento. Utlizando para isso a linguagem C# e a engine de desenvolvimento de jogos Unity.
+#### 👾 Olá, sou Wallisson, um desenvolvedor de jogos apaixonado com formação técnica em Desenvolvimento de Sistemas, faço jogos para Desktop, Web e Mobile, buscando constantemente aprimorar minhas habilidades.
 
 ##
 - 🎮 Atualmente estou estudando e desenvolvendo jogos 2D e 3D, como também venho me aprofundando sobre game design.
