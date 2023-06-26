@@ -2,7 +2,7 @@
 
 ##
 
-- 🎮 Atualmente estou estudando e desenvolvendo jogos 2D e 3D, em conjunto com a linguagem de programação C#.E também venho me aprofundando sobre game design.
+- 🎮 Atualmente estou estudando e desenvolvendo jogos 2D e 3D, como também venho me aprofundando sobre game design.
 - 👨🏾‍💻 Estou em busca de me desenvolver na área de games, para assim evoluir e fazer jogos cada vezes melhores e refinados, abrangendo cada vez mais topicos.
 
 - Minhas Skills
