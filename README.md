@@ -1,9 +1,8 @@
 #### 👾 Olá, sou Wallisson, um desenvolvedor de jogos apaixonado por criar jogos desde a sua prototipagem até o seu lançamento. Utlizando para isso a linguagem C# e a engine de desenvolvimento de jogos Unity.
 
 ##
-
 - 🎮 Atualmente estou estudando e desenvolvendo jogos 2D e 3D, como também venho me aprofundando sobre game design.
-- 👨🏾‍💻 Estou em busca de me desenvolver na área de games, para assim evoluir e fazer jogos cada vezes melhores e refinados, abrangendo cada vez mais topicos.
+  
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wallisson12&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=0d1117" alt="Wallisson github stats" /> 
