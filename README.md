@@ -5,6 +5,12 @@
 - 🎮 Atualmente estou estudando e desenvolvendo jogos 2D e 3D, como também venho me aprofundando sobre game design.
 - 👨🏾‍💻 Estou em busca de me desenvolver na área de games, para assim evoluir e fazer jogos cada vezes melhores e refinados, abrangendo cada vez mais topicos.
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wallisson12&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=FFFFFF&bg_color=9370DB" alt="Wallisson github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisson12&layout=compact&hide_border=true&title_color=9400D3&text_color=FFFFFF&bg_color=9370DB" />
+</div>
+
+
 - Minhas Skills
 
   <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/128/unity_icon_136074.png">
