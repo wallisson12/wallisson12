@@ -2,7 +2,7 @@
 
 ##
 - 🎮 Atualmente estou estudando e desenvolvendo jogos 2D e 3D, como também venho me aprofundando sobre game design.
-- 💻 Portfólio: wallisson12.github.io/WallissonJesus/
+- 💻 Portfólio: https://wallisson12.github.io/WallissonJesus/
   
 - Minhas Skills
 
