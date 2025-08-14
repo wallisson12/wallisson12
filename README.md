@@ -21,6 +21,7 @@
   <div class="skills">
     <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/128/unity_icon_136074.png" alt="Unity">
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+    <img height="45" width="45" src="https://images.icon-icons.com/2107/PNG/512/file_type_php_icon_130266.png" alt="Php">
     <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" alt="Visual Studio">
     <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/trello_logo_icon_147221.png" alt="Trello">
     <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="GitHub">
