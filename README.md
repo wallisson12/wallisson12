@@ -26,6 +26,7 @@
     <img height="40" width="40" src="https://images.icon-icons.com/2107/PNG/512/file_type_css_icon_130661.png" alt="Css">
     <img height="55" width="55" src="https://images.icon-icons.com/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker">
     <img height="40" width="40" src="https://images.icon-icons.com/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="Jquery">
+    <img height="45" width="45" src="https://images.icon-icons.com/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="Mysql">
     <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="GitHub">
     <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/128/unity_icon_136074.png" alt="Unity">
   </div>
