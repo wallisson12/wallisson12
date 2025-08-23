@@ -3,21 +3,20 @@
 
 <header>
   <h1>👾 Olá, sou Wallisson!</h1>
-  <p>Sou um desenvolvedor de jogos apaixonado com formação técnica em Desenvolvimento de Sistemas. Faço jogos para Desktop, Web e Mobile utilizando a Unity, sempre buscando melhorar minhas habilidades.</p>
+  <p>Sou desenvolvedor backend e game developer com formação técnica em Desenvolvimento de Sistemas, atualmente cursando Matemática Aplicada e Computacional na Universidade Federal de Sergipe (UFS).
+Tenho experiência como desenvolvedor backend, utilizando PHP, C#, MySQL, SQL, Docker, API REST, jQuery, Git e metodologias ágeis como Kanban e Scrum.</p>
+<p>Também atuo como desenvolvedor de jogos, com a engine Unity e linguagem C#, criando jogos para desktop, web e mobile habilidades.</p>
 </header>
 
 <section>
-  <h2>🎮 Atualmente</h2>
-  <p>Estudando e desenvolvendo jogos 2D e 3D, além de me aprofundar em game design.</p>
-  
+  <h2>💻 Stacks</h2>
+  <!---
   <h2>💻 Meu Portfólio</h3> 
   <li><a href="https://wallisson12.github.io/WallissonJesus" target="_blank">Portfólio</a></li>
+  --->
 </section>
 
-<br>
-
 <section>
-
   <div class="skills">
     <img height="45" width="45" src="https://images.icon-icons.com/2107/PNG/512/file_type_php_icon_130266.png" alt="Php">
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
