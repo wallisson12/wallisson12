@@ -3,9 +3,9 @@
 
 <header>
   <h1>👾 Olá, sou Wallisson!</h1>
-  <p>Sou desenvolvedor backend e game developer com formação técnica em Desenvolvimento de Sistemas, atualmente cursando Matemática Aplicada e Computacional na Universidade Federal de Sergipe (UFS).
-Tenho experiência como desenvolvedor backend, utilizando PHP, C#, MySQL, SQL, Docker, API REST, jQuery, Git e metodologias ágeis como Kanban e Scrum.</p>
-<p>Também atuo como desenvolvedor de jogos, com a engine Unity e linguagem C#, criando jogos para desktop, web e mobile habilidades.</p>
+  <p> -> Desenvolvedor Backend com formação técnica em Desenvolvimento de Sistemas, atualmente cursando Matemática Aplicada e Computacional na Universidade Federal de Sergipe (UFS).
+        Tenho experiência como Possuo experiência com PHP, Laravel, C#, .NET, JS, jQuery, Ajax, SQL, MySQL, Docker, APIs REST e Git e metodologias ágeis como Kanban e Scrum.</p>
+<p> -> Como também, desenvolvedor de jogos, com a engine Unity e linguagem C#, criando jogos para desktop, web e mobile habilidades.</p>
 </header>
 
 <section>
