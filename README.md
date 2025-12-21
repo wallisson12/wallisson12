@@ -4,7 +4,7 @@
 <header>
   <h1>👾 Olá, sou Wallisson!</h1>
   <p> -> Desenvolvedor Backend com formação técnica em Desenvolvimento de Sistemas, atualmente cursando Matemática Aplicada e Computacional na Universidade Federal de Sergipe (UFS).
-        Tenho experiência como Possuo experiência com PHP, Laravel, C#, .NET, JS, jQuery, Ajax, SQL, MySQL, Docker, APIs REST e Git e metodologias ágeis como Kanban e Scrum.</p>
+        Tenho experiência com PHP, Laravel, C#, .NET, JS, jQuery, Ajax, SQL, MySQL, Docker, APIs REST e Git e metodologias ágeis como Kanban e Scrum.</p>
 <p> -> Como também, desenvolvedor de jogos, com a engine Unity e linguagem C#, criando jogos para desktop, web e mobile habilidades.</p>
 </header>
 
@@ -19,6 +19,7 @@
 <section>
   <div class="skills">
     <img height="45" width="45" src="https://images.icon-icons.com/2107/PNG/512/file_type_php_icon_130266.png" alt="Php">
+    <img height="40" width="40" src="https://icon.icepanel.io/Technology/svg/Laravel.svg" alt="Laravel">
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
     <img height="40" width="40" src="https://images.icon-icons.com/2107/PNG/512/file_type_js_official_icon_130509.png" alt="Js">
     <img height="40" width="40" src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" alt="Html">
