@@ -5,16 +5,8 @@
   <h1>👾 Olá, sou Wallisson!</h1>
   <p> -> Desenvolvedor Backend com formação técnica em Desenvolvimento de Sistemas, atualmente cursando Matemática Aplicada e Computacional na Universidade Federal de Sergipe (UFS).
         Tenho experiência com PHP, Laravel, C#, .NET, JS, jQuery, Ajax, SQL, MySQL, Docker, APIs REST e Git e metodologias ágeis como Kanban e Scrum.</p>
-<p> -> Como também, desenvolvedor de jogos, com a engine Unity e linguagem C#, criando jogos para desktop, web e mobile habilidades.</p>
+<p> -> Desenvolvedor de jogos, com a engine Unity e linguagem C#, criando jogos para desktop, web e mobile habilidades.</p>
 </header>
-
-<section>
-  <h2>💻 Stacks</h2>
-  <!---
-  <h2>💻 Meu Portfólio</h3> 
-  <li><a href="https://wallisson12.github.io/WallissonJesus" target="_blank">Portfólio</a></li>
-  --->
-</section>
 
 <section>
   <div class="skills">
