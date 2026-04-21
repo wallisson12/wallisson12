@@ -12,6 +12,7 @@
 <div align="left">
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_php_icon_130266.png" height="45"/>
   <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/>
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_js_official_icon_130509.png" height="40"/>
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" height="40"/>
