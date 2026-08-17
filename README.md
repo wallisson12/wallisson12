@@ -4,7 +4,7 @@
 <header>
   <h1>👾 Olá, sou Wallisson!</h1>
   <p> -> Desenvolvedor Backend, atuando em aplicações e arquiteturas de sistemas web. Com Formação Técnica em Desenvolvimento de Sistemas, atualmente graduando em Engenharia Eletrônica pela Universidade Federal de Sergipe (UFS).
-        Experiência com PHP, Laravel, Java, SpringBoot, C#, .NET, JS, jQuery, Ajax, SQL, MySQL, Docker, APIs REST e Git.</p>
+        Experiência profissional com PHP, Laravel, Java, SpringBoot, C#, .NET, JS, jQuery, Ajax, SQL, MySQL, Docker, APIs REST e Git.</p>
 <p> -> Desenvolvedor de jogos, com a engine Unity e linguagem C#, criando jogos para desktop, web e mobile habilidades.</p>
 </header>
 
